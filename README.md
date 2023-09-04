@@ -1,5 +1,7 @@
 # 🦜 Generative Deep Learning - 2nd Edition Codebase
 
+This my personal work-through of this book. Essentially, in each of the notebook, you'll find my mathematical and graphical additions, as well as comments describing the algorithms in detail. The purpose of this project was to self-study and experiment with the various models in this book. As such, I will leave this repo mostly as is, though the curious reader is directed to the official repo and the book, both of immense use. 
+
 The official code repository for the second edition of the O'Reilly book *Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play*.
 
 [O'Reilly link](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/)
